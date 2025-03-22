@@ -1,7 +1,8 @@
 # PDF Text Editor
 
-A basic Python-based PDF editor that allows you to modify text in PDF files. 
-It is a work in progress.
+A basic Python-based PDF editor that allows you to modify text in PDF files while preserving their original structure.
+It detects the font of the text you want to edit and checks if the user has the font installed; if not, it attempts to find it online. 
+Note: This is a work in progress.
 
 ## Prerequisites
 
